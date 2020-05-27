@@ -1,4 +1,4 @@
-class Person
-  attr_accessor initialize :name, :breed
+class Dog
+  
 end
 end
